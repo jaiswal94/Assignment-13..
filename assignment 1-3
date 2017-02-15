@@ -1,0 +1,22 @@
+1.pwd-‘pwd‘ stands for ‘Print Working Directory‘. As the name states, command ‘pwd‘ prints the current working directory.
+2.vi- vi editor is used to edit an existing file or to create a new file from scratch. You can also use this editor to just read a text file
+3.touch- The touch command updates the access and modification times of each FILE
+to the current system time and also  creates an empty file with that if the file does not exist.
+4.mkdir-This command is used to create directory.
+5.rm-This command used to remove objects such as files, directories, device nodes, symbolic links, and so on from the filesystem.
+6.ls-ls is a Linux shell command that lists directory contents of files and directories.
+7. echo-echo is one of the most commonly and widely used built-in command for Linux bash and C shells, 
+that typically used in scripting language and batch files to display a line of text/string on standard output or a file.
+8. cat-The cat (short for “concatenate“) command is one of the most frequently used command in Linux/Unix like operating systems.
+cat command allows us to create single or multiple files, view contain of file, concatenate files and redirect output in terminal
+or files.
+9. who-The who command prints information about all users who are currently logged in.
+10. cd-This command to change the directory/folder of the terminal's shell.
+11. date-It print or set the system date and time
+12. cal-It Display a conveniently-formatted calendar from the command line.
+13. mv-mv command is used to move files and directories.
+14. cp-The cp command is used to make copies of files and directories.
+15. which-This returns the pathnames of the files (or links) which would be 
+executed in the current environment, had its arguments been given as commands 
+in a strictly POSIX-conformant shell. It does this by searching the PATH for executable     
+files matching the names of the arguments. It does not follow symbolic links. 
